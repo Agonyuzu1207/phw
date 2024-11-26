@@ -1,0 +1,1 @@
+[{"head_rel": 1, "body_rels": [0], "var_constraints": [], "conf": 0.9852315745197925, "rule_supp": 400539, "body_supp": 406543}, {"head_rel": 6, "body_rels": [0], "var_constraints": [], "conf": 0.33244385145652655, "rule_supp": 2990, "body_supp": 8994}, {"head_rel": 17, "body_rels": [20], "var_constraints": [], "conf": 0.293036750483559, "rule_supp": 1212, "body_supp": 4136}]
